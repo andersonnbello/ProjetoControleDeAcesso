@@ -1,0 +1,12 @@
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.deps.json
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.csproj.AssemblyReference.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.AssemblyInfoInputs.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.AssemblyInfo.cs
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\refint\Controle_Acesso_Predio.Domain.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\Controle_Acesso_Predio.Domain.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Domain\obj\Debug\net6.0\ref\Controle_Acesso_Predio.Domain.dll

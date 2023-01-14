@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdtSdhx0iztCGYlU9W50/Q6zLY99PGs45wc68f5jjCTslDOyqUfqyXoU6gZPCZDzKul79vOUeL1JYLPWg3cyeA==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\braga\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\braga\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\braga\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\braga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\braga\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\braga\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\braga\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

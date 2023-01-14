@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Controle_Acesso_Predio.Application\Controle_Acesso_Predio.Application.csproj" />
+    <ProjectReference Include="..\Controle_Acesso_Predio.Data\Controle_Acesso_Predio.Data.csproj" />
+    <ProjectReference Include="..\Controle_Acesso_Predio.Domain\Controle_Acesso_Predio.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

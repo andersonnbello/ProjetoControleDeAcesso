@@ -1,0 +1,15 @@
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\bin\Debug\net6.0\Controle_Acesso_Predio.Application.deps.json
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\bin\Debug\net6.0\Controle_Acesso_Predio.Application.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\bin\Debug\net6.0\Controle_Acesso_Predio.Application.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.csproj.AssemblyReference.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.AssemblyInfoInputs.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.AssemblyInfo.cs
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.csproj.CopyComplete
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\refint\Controle_Acesso_Predio.Application.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\Controle_Acesso_Predio.Application.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Application\obj\Debug\net6.0\ref\Controle_Acesso_Predio.Application.dll

@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Web\\Controle_Acesso_Predio.Web.csproj": {}
+  },
+  "projects": {
+    "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj",
+        "projectName": "Controle_Acesso_Predio.Application",
+        "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj",
+        "packagesPath": "C:\\Users\\braga\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.CrossCutting\\Controle_Acesso_Predio.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.CrossCutting\\Controle_Acesso_Predio.CrossCutting.csproj",
+        "projectName": "Controle_Acesso_Predio.CrossCutting",
+        "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.CrossCutting\\Controle_Acesso_Predio.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\braga\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj"
+              },
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Data\\Controle_Acesso_Predio.Data.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Data\\Controle_Acesso_Predio.Data.csproj"
+              },
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Data\\Controle_Acesso_Predio.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Data\\Controle_Acesso_Predio.Data.csproj",
+        "projectName": "Controle_Acesso_Predio.Data",
+        "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Data\\Controle_Acesso_Predio.Data.csproj",
+        "packagesPath": "C:\\Users\\braga\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj",
+        "projectName": "Controle_Acesso_Predio.Domain",
+        "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\Controle_Acesso_Predio.Domain.csproj",
+        "packagesPath": "C:\\Users\\braga\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Web\\Controle_Acesso_Predio.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Web\\Controle_Acesso_Predio.Web.csproj",
+        "projectName": "Controle_Acesso_Predio.Web",
+        "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Web\\Controle_Acesso_Predio.Web.csproj",
+        "packagesPath": "C:\\Users\\braga\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.Application\\Controle_Acesso_Predio.Application.csproj"
+              },
+              "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.CrossCutting\\Controle_Acesso_Predio.CrossCutting.csproj": {
+                "projectPath": "E:\\Projetos\\Controle-Acesso-Predio\\Controle_Acesso_Predio\\Controle_Acesso_Predio.CrossCutting\\Controle_Acesso_Predio.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

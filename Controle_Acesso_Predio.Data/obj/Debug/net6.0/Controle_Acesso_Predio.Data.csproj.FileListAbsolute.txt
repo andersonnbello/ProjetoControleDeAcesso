@@ -1,0 +1,15 @@
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\bin\Debug\net6.0\Controle_Acesso_Predio.Data.deps.json
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\bin\Debug\net6.0\Controle_Acesso_Predio.Data.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\bin\Debug\net6.0\Controle_Acesso_Predio.Data.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\bin\Debug\net6.0\Controle_Acesso_Predio.Domain.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.csproj.AssemblyReference.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.AssemblyInfoInputs.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.AssemblyInfo.cs
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.csproj.CopyComplete
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\refint\Controle_Acesso_Predio.Data.dll
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\Controle_Acesso_Predio.Data.pdb
+E:\Projetos\Controle-Acesso-Predio\Controle_Acesso_Predio\Controle_Acesso_Predio.Data\obj\Debug\net6.0\ref\Controle_Acesso_Predio.Data.dll
